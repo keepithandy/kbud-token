@@ -1,0 +1,27 @@
+{
+  "name": "OkayBuddy",
+  "symbol": "KBUD",
+  "description": "OkayBuddy (KBUD) is a community meme token on Solana.",
+  "image": "https://YOUR_GITHUB_PAGES_DOMAIN/PATH/kbud_logo_512.png",
+  "external_url": "https://YOUR_GITHUB_PAGES_DOMAIN/PATH/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://YOUR_GITHUB_PAGES_DOMAIN/PATH/kbud_logo_512.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "seller_fee_basis_points": 0
+}
